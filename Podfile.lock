@@ -1,0 +1,23 @@
+PODS:
+  - DGElasticPullToRefresh (1.1)
+  - Kingfisher (3.10.4)
+  - NVActivityIndicatorView (3.7.0):
+    - NVActivityIndicatorView/Presenter (= 3.7.0)
+  - NVActivityIndicatorView/Presenter (3.7.0)
+  - SVProgressHUD (2.1.2)
+
+DEPENDENCIES:
+  - DGElasticPullToRefresh
+  - Kingfisher (~> 3.0)
+  - NVActivityIndicatorView
+  - SVProgressHUD
+
+SPEC CHECKSUMS:
+  DGElasticPullToRefresh: 28f11a6026302a90f8ffebbc6e24748e584dddd3
+  Kingfisher: dc3a4983e86d2dfa89513664983a82340c11a289
+  NVActivityIndicatorView: d3738df7e2e476aca0ba6bf32a8c9fbcfc33d64b
+  SVProgressHUD: c404a55d78acbeb7ebb78b76d3faf986475a6994
+
+PODFILE CHECKSUM: 1088efc44950232f32b78d457ba21233d11e1b27
+
+COCOAPODS: 1.2.1
